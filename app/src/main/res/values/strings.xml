@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseRealTimeDataBase</string>
+    <array name="genere">
+        <item>rock</item>
+        <item>pop</item>
+        <item>folk</item>
+        <item>sufi</item>
+    </array>
+</resources>
